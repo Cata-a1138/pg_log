@@ -1,0 +1,11 @@
+{
+    "player": "玩家：%s",
+    "ped": "Ped：%s",
+    "vehicle": "载具：%s",
+    "entity": "物体：%s",
+    "unknown": "未知",
+    "redispatch": "急救人员被外星人拐走了,正在重新派遣",
+    "dispatching": "正在派遣急救人员",
+    "progress_label": "急救人员正在治疗你",
+    "revive": "治疗完成,你已被收取费用"
+}
